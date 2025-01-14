@@ -1,0 +1,36 @@
+body {
+    max-width: 600px;
+    margin: auto;
+    background-color: WhiteSmoke;
+    color: SteelBlue;
+}
+
+h1 {
+    
+    padding: 20px;
+}
+
+form {
+    font-size: 20px;
+}
+
+input {
+    width: 50px;
+    font-size: 15px;
+}
+
+#gen {
+    background-color: darkslategrey;
+    color: white;
+    font-size: 15px;
+    width: 75px;
+}
+
+#gen:hover {
+    background-color: gray;
+}
+
+article {
+    /* border: 5px solid red; */
+    font-family: "Lucida Console", "Courier New", monospace;
+}
